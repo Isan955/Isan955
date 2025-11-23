@@ -1,22 +1,81 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
-<h1 align="center">Hi 👋, I'm Hasan</h1>
+<div align="center">
+<pre>
+██╗  ██╗██╗    ██╗ █ ███╗   ███╗
+██║  ██║██║    ██║   ████╗ ████║
+███████║██║    ██║   ██╔████╔██║
+██╔══██║██║    ██║   ██║╚██╔╝██║
+██║  ██║██║    ██║   ██║ ╚═╝ ██║
+╚═╝  ╚═╝╚═╝    ╚═╝   ╚═╝     ╚═╝
+██╗  ██╗ █████╗ ███████╗ █████╗ ███╗   ██╗
+██║  ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║
+███████║███████║███████╗███████║██╔██╗ ██║
+██╔══██║██╔══██║╚════██║██╔══██║██║╚██╗██║
+██║  ██║██║  ██║███████║██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
+</pre>
 <h3 align="center">A passionate IT student and tech enthusiast from Indonesia</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Cybersecurity+%7C+IoT+%7C+AI+%26+Data+Enthusiast" alt="Typing SVG" />
-</p>
+</p> -->
 
 ---
-🌱 I’m currently learning **Cybersecurity, IoT, and Data Science**<br>👨🏼‍🎓 studying media based computer science at Madiun State Polytechnic <br>👨🏼‍💻 working as a web developer since 2022 <br>📫 How to reach me: contacthasanforbusiness@gmail.com <br> ⚡ Fun fact: I love building useful stuff from scratch!</i>
+<table> <tr> <td width="60%" valign="center">
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=79C0FF&size=22&center=false&vCenter=true&width=500&lines=;Full+Stack+Web+Developer;Cybersecurity+%26+IoT+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+  
+  <ul>
+    <li> 🔭 I’m currently studying at <a href="#"><b>Madiun State Polytechnic</b></a> </li>
+    <li> 💻 Working as a <b>Web Developer</b> since 2022 </li>
+    <li> 🌱 Learning all about <b>Cybersecurity & IoT</b> </li>
+    <li> ⚡ Fun fact: I prefer <b>Dark Mode</b> on everything! 🌑 </li>
+    <li> 📫 How to reach me: <a href="mailto:contacthasanforbusiness@gmail.com"><b>contacthasanforbusiness@gmail.com</b></a> </li>
+  </ul>
 
+  <br>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+  ---
+
+### 📊 GitHub Analytics & Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Isan955&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isan955&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Isan955&theme=tokyonight&hide_border=true&background=0D1117&ring=79C0FF&fire=FF6B6B&currStreakNum=79C0FF" height="150" />
+
+</div>
+
+<br>
+
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
+
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=79C0FF&width=600&lines=Thanks+for+visiting+my+profile!;Have+a+great+day!;Don't+forget+to+drink+coffee+☕" />
+
+<br><br>
