@@ -36,10 +36,10 @@
   <tr>
     <td width="60%" valign="top">
       <ul>
-        <li>🔭 I’m currently studying at <b>Madiun State Polytechnic</b></li>
-        <li>💻 Working as a <b>Web Developer</b> since <b>2022</b></li>
-        <li>🌱 Currently exploring <b>Cybersecurity, IoT & Cloud Computing</b></li>
-        <li>⚡ Fun fact: I prefer <b>Dark Mode</b> on everything! 🌑</li>
+        <li> I’m currently studying at <b>Madiun State Polytechnic</b></li>
+        <li> Working as a <b>Web Developer</b> since <b>2022</b></li>
+        <li> Currently exploring <b>Cybersecurity, IoT & Cloud Computing</b></li>
+        <li> Fun fact: I prefer <b>Dark Mode</b> on everything!</li>
         <li>🤝 Open for collaboration on <b>Open Source Projects</b></li>
       </ul>
     </td>
@@ -82,18 +82,6 @@
 
 <br>
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Isan955&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=79C0FF&icon_color=79C0FF" height="160" alt="Isan955's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isan955&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79C0FF" height="160" alt="Isan955's Top Langs" />
-  </p>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isan955&theme=tokyonight&hide_border=true&background=0D1117&ring=79C0FF&fire=FF6B6B&currStreakNum=79C0FF" alt="Isan955's Streak" />
-
-</div>
 
 <br>
 <br>
