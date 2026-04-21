@@ -13,79 +13,47 @@
 ██║  ██║██║  ██║███████║██║  ██║██║ ╚████║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 </pre>
-<div align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Hasan;Full+Stack+Web+Developer;Cybersecurity+%26+IoT+Enthusiast;Madiun+State+Polytechnic+Student" alt="Typing SVG" />
-
-  <p>
-    <a href="https://github.com/Isan955">
-      <img src="https://img.shields.io/badge/Profile-Views-blue?style=flat-square" alt="Profile Views">
-    </a>
-    <a href="mailto:contacthasanforbusiness@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Me-teal?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-    </a>
+<div align="left">
+  <p align="center">
+    <strong>Full Stack Engineer | Security Enthusiast | Problem Solver</strong><br />
+    Building resilient systems with a focus on scalability and security.
   </p>
 
+  <p align="center">
+    <a href="https://github.com/Isan955"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:contacthasanforbusiness@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li> I’m currently studying at <b>Madiun State Polytechnic</b></li>
-        <li> Working as a <b>Web Developer</b> since <b>2022</b></li>
-        <li> Currently exploring <b>Cybersecurity, IoT & Cloud Computing</b></li>
-        <li> Fun fact: I prefer <b>Dark Mode</b> on everything!</li>
-        <li>🤝 Open for collaboration on <b>Open Source Projects</b></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding Gif">
-    </td>
-  </tr>
-</table>
+Saya adalah seorang software engineer yang berfokus pada pengembangan sistem yang **scalable, maintainable, dan berorientasi pada performa**. Sejak 2022, saya aktif membangun aplikasi dari sisi arsitektur backend hingga antarmuka frontend yang responsif.
+
+Saat ini saya sedang mendalami **Cybersecurity & Digital Forensics**, mengeksplorasi bagaimana teknologi dapat dibangun dengan fondasi keamanan yang kuat tanpa mengorbankan pengalaman pengguna.
+
+-  Sedang mengerjakan: **Digital Signature Forgery Detection (ELA & Geometric Approach)**.
+-  Tech Stack Favorit: **Astro, TypeScript, & Node.js**.
+-  Filosofi: "Simplicity is the ultimate sophistication."
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| **Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
+
+---
+
+> "I don't just build features. I build systems that can evolve, scale, and survive."
+
+---
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-</div>
-
-<br>
-
-
-<br>
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=79C0FF&width=600&lines=Thanks+for+visiting!;Don't+forget+to+drink+coffee+☕" />
+  <sub>Open for collaboration • Focused on meaningful engineering work</sub>
 </div>
