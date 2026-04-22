@@ -34,7 +34,7 @@ Saya adalah seorang software engineer yang berfokus pada pengembangan sistem yan
 Saat ini saya sedang mendalami **Cybersecurity & Digital Forensics**, mengeksplorasi bagaimana teknologi dapat dibangun dengan fondasi keamanan yang kuat tanpa mengorbankan pengalaman pengguna.
 
 -  Sedang mengerjakan: **Digital Signature Forgery Detection (ELA & Geometric Approach)**.
--  Tech Stack Favorit: **Astro, TypeScript, & Node.js**.
+-  Tech Stack Favorit: **Php, Python, Kotlin, Laravel, Node.js**.
 -  Filosofi: "Simplicity is the ultimate sophistication."
 
 ---
