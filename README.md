@@ -7,13 +7,13 @@
 <a href="mailto:contacthasanforbusiness@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=Isan955&style=for-the-badge&color=blue&label=Profile+Views" alt="Profile Views" />
 
-## Tentang
+## About Me
 
-Saya freelance web developer sekaligus mahasiswa Teknologi Rekayasa Perangkat Lunak (TRPL). Sehari-hari saya membuat aplikasi web, dari sisi backend sampai tampilannya.
+I am a freelance web developer and a student of Software Engineering Technology. In my daily work, I build web applications, covering everything from the backend to the user interface.
 
-Saya suka membuat sesuatu yang rapi dan bisa dikembangkan tanpa harus dibuat ulang. Di sisi lain, saya juga senang merapikan UI supaya sederhana dan enak dipakai.
+I enjoy creating clean, scalable solutions that can be developed further without needing to be rebuilt from scratch. I also take pleasure in refining user interfaces to ensure they are simple and intuitive to use.
 
-Saat ini saya terbuka untuk proyek freelance. Kalau ada yang mau dibangun, hubungi saya lewat kontak di bawah atau lihat portofolio di [hysan.my](https://hysan.my).
+I am currently open to freelance projects. If you have something you’d like to build, please get in touch via the contact details below, or take a look at my portfolio at [hysan.my](https://hysan.my).
 <br/>
 <br/>
 
